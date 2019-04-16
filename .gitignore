@@ -1,0 +1,4 @@
+## .gitignore file for nkf-scaffold
+
+## ignore folder fetched through gclient
+nkf
